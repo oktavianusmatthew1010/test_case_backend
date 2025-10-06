@@ -22,3 +22,9 @@ Proper request validation (Pydantic schemas if using FastAPI).
 Error handling (404, 400, 500).
 
 Unit tests included.
+
+Please Submit using this repo, please create feature branch and request PR to main, so we can review it
+
+Please commit every changes code, so we can track it
+
+Please submit the Task before 8 Oct 2025 end of day
